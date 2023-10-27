@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Inter";
+  src:
+    local("Inter"),
+    url("~/assets/fonts/Inter/Inter-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "InterMedium";
+  src:
+    local("Inter"),
+    url("~/assets/fonts/Inter/Inter-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "InterSemiBold";
+  src:
+    local("Inter"),
+    url("~/assets/fonts/Inter/Inter-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "InterExtraBold";
+  src:
+    local("Inter"),
+    url("~/assets/fonts/Inter/Inter-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "InterBold";
+  src:
+    local("Inter"),
+    url("~/assets/fonts/Inter/Inter-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "InterBlack";
+  src:
+    local("Inter"),
+    url("~/assets/fonts/Inter/Inter-Black.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NothingYouCouldDo";
+  src:
+    local("NothingYouCouldDo"),
+    url("~/assets/fonts/NothingYouCouldDo/NothingYouCouldDo.ttf")
+      format("truetype");
+}

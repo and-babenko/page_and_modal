@@ -1,0 +1,22 @@
+[
+  {
+    "svgIcon": "/media/svg/koala_color_text.svg",
+    "pngIcon": "/media/png/koala_color_text.png",
+    "bgColor": "#FFFFFF"
+  },
+  {
+    "svgIcon": "/media/svg/koala_white_text.svg",
+    "pngIcon": "/media/png/koala_white_text.png",
+    "bgColor": "#393B5E"
+  },
+  {
+    "svgIcon": "/media/svg/koala_color.svg",
+    "pngIcon": "/media/png/koala_color.png",
+    "bgColor": "#FFFFFF"
+  },
+  {
+    "svgIcon": "/media/svg/koala_white.svg",
+    "pngIcon": "/media/png/koala_white.png",
+    "bgColor": "#393B5E"
+  }
+]

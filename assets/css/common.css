@@ -1,0 +1,42 @@
+html {
+  background-color: #171826;
+}
+
+/* Text gradients */
+.pinkYellowGradientText,
+.pinkOrangeGradientText,
+.redOrangeGradientText,
+.purpleBlueGradientText {
+  background-clip: text;
+  color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.pinkOrangeGradientText {
+  background-image: linear-gradient(to right, #ff00cc -10.2%, #ffac2f 152.16%);
+}
+.pinkYellowGradientText {
+  background-image: linear-gradient(to right, #ff00cc 0%, #ffac2f 100%);
+}
+.redOrangeGradientText {
+  background-image: linear-gradient(to right, #e22901 45%, #ffa18c 100%);
+}
+.purpleBlueGradientText {
+  background-image: linear-gradient(to right, #c83dea 29.81%, #7b3ee3 68.46%);
+}
+
+/* Button gradients */
+
+.pinkYellowButton {
+  background: linear-gradient(90.41deg, #ff00cc -10.2%, #ffac2f 152.16%);
+}
+
+/* Other */
+
+.undraggable {
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}

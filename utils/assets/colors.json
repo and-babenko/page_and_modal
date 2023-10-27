@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Black",
+    "textColor": "#FFFFFF",
+    "color": "#171826",
+    "hexColor": "#171826",
+    "border": "#FFFFFF",
+    "rgbColor": "RGB(23,24,38)"
+  },
+  {
+    "title": "White",
+    "textColor": "#171826",
+    "color": "#FFFFFF",
+    "hexColor": "#FFFFFF",
+    "border": "#282A42",
+    "rgbColor": "RGB(255,255,255)"
+  },
+  {
+    "title": "Dark Blue",
+    "textColor": "#FFFFFF",
+    "color": "#333399",
+    "hexColor": "#333399",
+    "border": "#282A42",
+    "rgbColor": "RGB(51,51,153)"
+  },
+  {
+    "title": "Purple",
+    "textColor": "#FFFFFF",
+    "color": "#6028A4",
+    "hexColor": "#6028A4",
+    "border": "#FFFFFF",
+    "rgbColor": "RGB(96,40,164)"
+  },
+  {
+    "title": "Pink",
+    "textColor": "#FFFFFF",
+    "color": "#FF00CC",
+    "hexColor": "#FF00CC",
+    "border": "#282A42",
+    "rgbColor": "RGB(255,0,204)"
+  }
+]
